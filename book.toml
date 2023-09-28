@@ -1,0 +1,9 @@
+[book]
+title = "Livro Actix Web"
+authors = ["Werick da Silva Santana"]
+language = "pt-BR"
+multilingual = false
+src = "src"
+
+[output.html.playground]
+runnable = false
